@@ -1,0 +1,1 @@
+Passwords are equivalent to the user emails
