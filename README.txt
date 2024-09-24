@@ -1,1 +1,4 @@
-Passwords are equivalent to the user emails
+SuperUser:
+username: muzammil
+email: muzammil@gmail.com
+pp: 545543
